@@ -57,7 +57,6 @@ Answer the following questions based on your understanding of how to pitch a sof
 7. Business Model:
    - Describe the components of a business model that should be presented in a software project pitch. How does a well-defined business model benefit your pitch?
 
-   Describe the components of a business model that should be presented in a software project pitch. How does a well-defined business model benefit your pitch?
    Components of a business model:
    Revenue streams: Describe how the software will generate revenue 
    Pricing strategy: Pricing plans and rationale.
